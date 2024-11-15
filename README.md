@@ -1,3 +1,10 @@
+## Tic-Tac-Toe Game
+
+This project is a simple **Tic-Tac-Toe** game built using **Svelte**. It's a two-player game where players take turns marking spaces on a 3x3 grid with either an 'X' or an 'O'. The goal is to be the first to align three of their marks in a row, either horizontally, vertically, or diagonally. The game keeps track of rounds, announces the winner, and allows for resetting the game as well as clearing the round history and player names.
+
+Enjoy playing and testing your skills! 🎮
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
